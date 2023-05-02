@@ -1,8 +1,7 @@
-class Message:
-  def __init__(self, message):
-    self.message = message
-  def cout(self):
-    print(self.message)
+sentance = ["H", "e", "l", "l", "o", " "]
+sentance += ["W", "o", "r", "l", "d"]
+printable = ""
+for character in sentance:
+  printable += character
 
-greeting = Message("Hello World")
-greeting.cout() # calls functio
+print(printable)
