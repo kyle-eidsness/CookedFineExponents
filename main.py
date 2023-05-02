@@ -5,4 +5,5 @@ class Message:
     print(self.message)
 
 greeting = Message("Hello World")
-greeting.cout() # calls function
+greeting.cout() # calls functio
+print("hi")
