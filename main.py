@@ -6,4 +6,3 @@ class Message:
 
 greeting = Message("Hello World")
 greeting.cout() # calls functio
-print("hi")
