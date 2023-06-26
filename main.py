@@ -1,3 +1,7 @@
+# Kyle Eidsness
+# RPG Class Assignment
+# April 24, 2023
+
 from classes import Map
 import setup
 import functions
